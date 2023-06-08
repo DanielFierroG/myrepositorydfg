@@ -1,0 +1,35 @@
+En este video, profesionales de
+datos en activo hablan sobre algunas de las aplicaciones del análisis
+de datos en el mundo de hoy. >> Las aplicaciones del análisis de datos
+en el mundo de hoy están en todas partes. Para cada publicidad que ves,
+alguien ha tenido que analizar e identificar, ya sea a partir del
+consumidor o por parte de la empresa, qué información
+quiere compartir. Así que ya sabes, cuatro
+de cada 10 dentistas, o verás información relacionada
+con el recuento de calorías o las reacciones a ciertas cosas,
+todo eso ha requerido un análisis. Esto no es algo que deba
+pensarse por separado y aparte, es lo que hacemos
+todos los días en nuestras vidas. Incluso las personas que controlan
+su nivel de azúcar por la diabetes, siempre hay análisis, por lo que
+las aplicaciones son universales. >> Así que lo mejor del
+análisis en esta época es que se puede
+aplicar ampliamente. Cada sector, cada estructura, cada función dentro de una organización dada
+puede beneficiarse de los datos y el análisis. Ya sea por hacer análisis
+de canales de ventas, ya sea por hacer análisis financieros a
+fin de mes, creando informes predefinidos y estandarizados con formato. . O si estás haciendo algo como la planificación
+o revisión del recuento de personal, todo esto a través de cada estructura
+vertical, como dije, ya sea para aerolíneas, farmacéuticas,
+bancos, todos estos y las funciones que los integran
+pueden beneficiarse de los análisis. >> Y en este clima en el que estamos
+ahora mismo con la pandemia, hay empresas que están prestando mucha atención
+a los hábitos de compra de sus clientes. Obviamente, estos hábitos pueden haber
+variado de lo que estas compañías esperaban que fueran. Así que ahora el análisis de datos
+es más importante porque necesitan asegurarse de que pueden virar y
+mantenerse al día con la demanda. Y realmente ser capaces de atender lo
+que sus clientes y consumidores quieren. >> Puedo hablar de las aplicaciones de la analítica
+de datos en las finanzas, se trata de que hemos visto más y más aplicaciones de la analítica de
+datos alternativa en el mundo de las finanzas. Por ejemplo, podemos utilizar el análisis de sentimiento
+sobre los tweets y las nuevas historias para complementar el análisis financiero tradicional y para
+fundamentar mejores decisiones de inversión. Además, los datos de las imágenes satelitales
+pueden utilizarse para seguir el desarrollo de las actividades industriales. Y los datos de geolocalización pueden utilizarse
+para rastrear el tráfico de las tiendas y predecir el volumen de ventas. [MÚSICA]
